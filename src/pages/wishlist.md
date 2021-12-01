@@ -1,0 +1,15 @@
+---
+slug: /wishlist
+---
+
+## Wishlist
+
+| Item                                                      | Links                                                                                                                                                                                         |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <u>The Daily Stoic</u> by Ryan Holiday                    | [Amazon](https://www.amazon.com/Daily-Stoic-Meditations-Wisdom-Perseverance/dp/0735211736) [Painted Porch](https://www.thepaintedporch.com/products/ryan4?variant=40308548468890)             |
+| <u>Trust Me, I'm Lying</u> by Ryan Holiday                | [Amazon](https://www.amazon.com/Trust-Me-Lying-Confessions-Manipulator/dp/1591846285) [Painted Porch](https://www.thepaintedporch.com/products/ryan6?variant=40334497775770)                  |
+| Groove Life Belt Gun Metal / Black - Medium               | [Groove Life](https://groovelife.com/products/groove-belt?variant=32118084665411)                                                                                                             |
+| Craftsman VersaStack Socket Wrench Set                    | [Lowe's](https://www.lowes.com/pd/CRAFTSMAN-71-piece-1-4-in-and-3-8-in-Drive-Mechanic-s-Tool-Set/5000236709)                                                                                  |
+| Craftsman VersaStack Ratcheting Multi-bit Screwdriver Set | [Lowe's](https://www.lowes.com/pd/CRAFTSMAN-44-piece-Ratcheting-Screwdriver-Set-with-Case/1003096800)                                                                                         |
+| <u>Meditations</u> by Marcus Aurelius                     | [Amazon](https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255) [Painted Porch](https://www.thepaintedporch.com/products/philosophy15?_pos=2&_sid=c39939ea2&_ss=r) |
+| Fluance RT81 Elite Turntable - Piano Black                | [Amazon](https://www.amazon.com/dp/B07PZF7S8G)                                                                                                                                                |
