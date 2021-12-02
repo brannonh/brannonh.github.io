@@ -13,3 +13,5 @@ slug: /wishlist
 | Craftsman VersaStack Ratcheting Multi-bit Screwdriver Set | [Lowe's](https://www.lowes.com/pd/CRAFTSMAN-44-piece-Ratcheting-Screwdriver-Set-with-Case/1003096800)                                                                                         |
 | <u>Meditations</u> by Marcus Aurelius                     | [Amazon](https://www.amazon.com/Meditations-New-Translation-Marcus-Aurelius/dp/0812968255) [Painted Porch](https://www.thepaintedporch.com/products/philosophy15?_pos=2&_sid=c39939ea2&_ss=r) |
 | Fluance RT81 Elite Turntable - Piano Black                | [Amazon](https://www.amazon.com/dp/B07PZF7S8G)                                                                                                                                                |
+| Apple Magic Trackpad | [Apple](https://www.apple.com/shop/product/MK2D3AM/A/magic-trackpad) |
+| Apple Magic Keyboard | [Apple](https://www.apple.com/shop/product/MQ052LL/A/magic-keyboard-with-numeric-keypad-us-english) |
